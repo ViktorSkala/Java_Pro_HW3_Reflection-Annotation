@@ -1,0 +1,5 @@
+Student=sample.Student
+name=Viktor
+surname=Skala
+age=32
+groupName=automation
